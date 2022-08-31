@@ -1,2 +1,2 @@
 # AluraPlus
-Meu primeiro repositório
+Meu primeiro projeto
